@@ -1,0 +1,23 @@
+.body
+{
+    margin: 0;
+}
+.players
+{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 70px;
+}
+.player-card >img{
+    width:500px;
+    height:500px;
+}
+.player-card h1,h2
+{
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+}
